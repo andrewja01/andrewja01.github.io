@@ -1,0 +1,22 @@
+img {
+    float: left;
+    width: 200px;
+    height: 150px; 
+    padding: 10px; 
+}
+
+.gallery {
+    margin: 5px;
+    float: left;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 10px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
